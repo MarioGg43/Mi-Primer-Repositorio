@@ -1,2 +1,6 @@
 Este es mi primer archivo en Git
 cambuio echo en la rama dev
+Integrantes:
+Flores Mario Gabriel
+Diaz Santiago
+Baldiviezo Luca
