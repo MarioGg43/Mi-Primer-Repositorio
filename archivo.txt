@@ -3,5 +3,4 @@ cambuio echo en la rama dev
 Integrantes:
 Flores Mario Gabriel
 Diaz Santiago
-Baldiviezo Luca
 Cambios echo por Santiago D
